@@ -1,0 +1,10 @@
+<html>
+  <head>
+    
+<svg width="400" height="110">
+ <rect width="300" height="100"
+style="fill:rgb(0,0,225);stroke-width:3;stroke:(0,0,0)"/>
+</svg>
+<div style="width:300px;height:100px;border:1px solid #000;">
+  </head>
+</html>
